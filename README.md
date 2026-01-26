@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Nassar%20Barahmeh&fontSize=80&animation=fadeIn&fontAlignY=35" />
-</p>
 
 # Hi there, I'm Nassar Barahmeh 👋 🇵🇸
 
