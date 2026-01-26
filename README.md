@@ -192,7 +192,7 @@ Advanced image processing application:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NassarBarahme&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=NassarBarahme&theme=tokyonight&hide_border=true)
 
 </div>
 
