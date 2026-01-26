@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Nassar Barahmeh 👋 🇵🇸
 
-### 🛠️ Senior Full-Stack Developer | Backend Architect | Computer Engineer
+### 🛠️ Full-Stack Developer | Backend Architect | Computer Engineer
 
 I don’t just write code; I architect solutions. With a deep focus on **Scalable Backends (NestJS)** and **High-Performance Mobile Apps (Flutter)**, I bridge the gap between complex system logic and seamless user experiences. From TCP/IP socket programming to modern microservices, I build to scale.
 
@@ -31,7 +31,7 @@ I don’t just write code; I architect solutions. With a deep focus on **Scalabl
 
 ---
 
-### 🌟 Featured Masterpieces (The Top Tier)
+### 🌟 Featured Masterpieces
 
 #### 🚀 [Modern Task Management System](https://github.com/NassarBarahme/Task-Manager-Nestjs-)
 
@@ -75,6 +75,6 @@ I don’t just write code; I architect solutions. With a deep focus on **Scalabl
 ### 📫 Let's Build Something Great
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nassar-barahme-378826362)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nassarbarahme03@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](nassarbarahme@gmail.com)
 
 _"Talk is cheap. Show me the code."_ — **Nassar Barahmeh**
