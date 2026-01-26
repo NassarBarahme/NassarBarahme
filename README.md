@@ -209,7 +209,7 @@ Advanced image processing application:
 ### 🎯 Core Competencies
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e3a8a', 'primaryTextColor':'#fff', 'primaryBorderColor':'#1e40af', 'lineColor':'#3b82f6', 'secondaryColor':'#3b82f6', 'tertiaryColor':'#60a5fa', 'background':'#f8fafc', 'mainBkg':'#1e3a8a', 'secondBkg':'#2563eb', 'tertiaryBkg':'#3b82f6', 'textColor':'#1e293b', 'fontSize':'16px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667eea', 'primaryTextColor':'#fff', 'primaryBorderColor':'#764ba2', 'lineColor':'#f093fb', 'secondaryColor':'#4facfe', 'tertiaryColor':'#00f2fe', 'background':'#ffffff', 'mainBkg':'#667eea', 'secondBkg':'#764ba2', 'tertiaryBkg':'#f093fb', 'textColor':'#2d3748', 'fontSize':'16px'}}}%%
 mindmap
   root((Nassar Barahmeh))
     Backend Development
