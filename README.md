@@ -1,80 +1,53 @@
-# 🚀 Hi, I'm Nassar Barahmeh 👋 🇵🇸
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Nassar%20Barahmeh&fontSize=80&animation=fadeIn&fontAlignY=35" />
+</p>
 
-### 🛠️ Full-Stack Developer | Backend Architect | Computer Engineer
+<p align="center">
+  <a href="https://www.linkedin.com/in/nassar-barahme-378826362"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nassarbarahme03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-I don’t just write code; I architect solutions. With a deep focus on **Scalable Backends (NestJS)** and **High-Performance Mobile Apps (Flutter)**, I bridge the gap between complex system logic and seamless user experiences. From TCP/IP socket programming to modern microservices, I build to scale.
+### 👋 About Me
+I'm a **Computer Engineering Student** and a **Full-Stack Specialist** who loves building complex backend architectures and sleek mobile applications. Currently focused on mastering **NestJS** and **Flutter** while exploring the depths of **Network Programming**.
 
 ---
 
-### ⚡ Technical Arsenal
+### 🛠️ My Tech Stack
 
-#### 🏗️ The Core (Backend & Systems)
-
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 📱 The Interface (Mobile & Web)
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-#### 🛡️ Low-Level & Tools
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) |
+| **Frontend/Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) |
+| **System & Low-Level** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/8086-Assembly-grey?style=flat-square&logo=micro-strategy) |
 
 ---
 
 ### 🌟 Featured Masterpieces
 
-#### 🚀 [Modern Task Management System](https://github.com/NassarBarahme/Task-Manager-Nestjs-)
-
-**Backend Expert | NestJS & PostgreSQL**
-
-- Architected a robust RESTful API with **JWT Authentication** and secure password hashing.
-- Optimized database queries using **TypeORM** for PostgreSQL, ensuring high performance under load.
-
-#### 📱 [Study-Mate & Productivity Suite](https://github.com/NassarBarahme/Study-Mate-App-Flutter)
-
-**Mobile Lead | Flutter & Dart**
-
-- Developed a high-performance cross-platform app with complex **State Management**.
-- Integrated real-time features and custom UI components for a seamless student experience.
-
-#### 🔌 [P2P Advanced Networking System](https://github.com/NassarBarahme/Networks-Project-P2P-Chat)
-
-**Systems Engineer | Java Sockets & Multi-threading**
-
-- Engineered a peer-to-peer communication protocol from scratch using **TCP/UDP Sockets**.
-- Handled concurrent connections using advanced **Multi-threading** logic for real-time data sync.
-
-#### 🏗️ [Advanced Software Architecture](https://github.com/NassarBarahme/Advance-Software-Project)
-
-**Software Engineer | Design Patterns & Best Practices**
-
-- Applied **SOLID principles** and Design Patterns to build a highly maintainable and scalable codebase.
-- Focused on modular architecture and clean code standards used in industry-leading firms.
+* **⚡ [Task Manager API](https://github.com/NassarBarahme/Task-Manager-Nestjs-)** - High-performance backend built with NestJS & PostgreSQL.
+* **🌐 [P2P Advanced Networking](https://github.com/NassarBarahme/Networks-Project-P2P-Chat)** - Real-time socket programming with Java.
+* **🏗️ [Advanced Software Architecture](https://github.com/NassarBarahme/Advance-Software-Project)** - Implementing SOLID principles and Design Patterns.
+* **📱 [Study-Mate Flutter App](https://github.com/NassarBarahme/Study-Mate-App-Flutter)** - Modern mobile solution for students.
 
 ---
 
-### 📊 Engineering Stats & Performance
+### 📊 GitHub Insights & Performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NassarBarahme&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NassarBarahme&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NassarBarahme&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Nassar's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NassarBarahme&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NassarBarahme&theme=tokyonight&hide_border=true" width="94%" />
 </p>
 
 ---
 
-### 📫 Let's Build Something Great
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nassar-barahme-378826362)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](nassarbarahme@gmail.com)
-
-_"Talk is cheap. Show me the code."_ — **Nassar Barahmeh**
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." 😉</i>
+</p>
