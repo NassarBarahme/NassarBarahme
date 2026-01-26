@@ -84,15 +84,21 @@ const profile = {
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=NassarBarahme&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NassarBarahme&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true)
+
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NassarBarahme&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=NassarBarahme&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
 </td>
 </tr>
 </table>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=NassarBarahme&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NassarBarahme&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Activity)
 
 </div>
 
@@ -157,7 +163,9 @@ Computer vision application implementing image processing algorithms including f
 ## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NassarBarahme&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NassarBarahme&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)
+
 </div>
 
 ---
