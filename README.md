@@ -1,75 +1,193 @@
+# Nassar Barahmeh
+### Full-Stack Engineer | Backend Architect | Mobile Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassar-barahme-378826362)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NassarBarahme)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nassarbarahme03@gmail.com)
+
+**🇵🇸 Nablus, Palestine**
+
+---
+
+## 👨‍💻 About Me
+
+Computer Engineer specializing in backend architecture and cross-platform development. I build scalable systems with clean code practices and modern architectural patterns.
+
+```typescript
+const profile = {
+  location: "Nablus, Palestine 🇵🇸",
+  role: "Computer Engineer & Backend Specialist",
+  expertise: ["Backend Architecture", "API Design", "Mobile Development"],
+  currentFocus: "Enterprise-grade systems with NestJS",
+  interests: ["Microservices", "System Design", "Cloud Architecture"]
+};
+```
+
+---
+
+## 🛠️ Technical Stack
+
+### Backend Development
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Core Competencies:**
+- RESTful API Design & Development
+- Microservices Architecture
+- Authentication & Authorization (JWT, OAuth)
+- Real-time Communication (WebSockets)
+- Database Design & Optimization
+- Network Programming & TCP/IP
+
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Data & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### [Task Manager API](https://github.com/NassarBarahme/Task-Manager-Nestjs-)
+**Enterprise Task Management Backend**
+
+`NestJS` `PostgreSQL` `JWT` `TypeORM`
+
+Production-ready REST API with secure authentication, optimized database design, and clean architecture following SOLID principles.
+
+**Highlights:**
+- Role-based access control (RBAC)
+- Scalable architecture with dependency injection
+- Comprehensive validation & error handling
+
+---
+
+### [P2P Chat Network](https://github.com/NassarBarahme/Networks-Project-P2P-Chat)
+**Network Programming Implementation**
+
+`Java` `Socket Programming` `TCP/IP` `Multithreading`
+
+High-performance chat application built from scratch using pure Java sockets, demonstrating deep understanding of network protocols.
+
+**Features:**
+- Custom TCP/IP protocol implementation
+- Multi-threaded server architecture
+- Real-time message broadcasting
+- Concurrent connection handling
+
+---
+
+### [Study-Mate Mobile App](https://github.com/NassarBarahme/Study-Mate-App-Flutter)
+**Cross-Platform Productivity App**
+
+`Flutter` `Dart` `Firebase` `REST APIs`
+
+Comprehensive student productivity platform with smart scheduling, progress tracking, and real-time synchronization.
+
+**Key Features:**
+- Cross-platform support (iOS & Android)
+- Firebase backend integration
+- Responsive UI with efficient state management
+- Intelligent notifications
+
+---
+
+### [Image Processing System](https://github.com/NassarBarahme/Image-Project)
+**Computer Vision Application**
+
+`Python` `OpenCV` `NumPy`
+
+Advanced image processing application with multiple filters, transformations, and edge detection algorithms.
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-# 👨‍💻 Nassar Barahmeh
-### Backend Architect | Full-Stack Engineer | Computer Engineering Student 
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=NassarBarahme&theme=tokyonight&hide_border=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassar-barahme-378826362)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/NassarBarahme)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=react&logoColor=white)](https://github.com/NassarBarahme)
-
-**Building resilient, scalable backend systems with a focus on Clean Architecture.**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NassarBarahme&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
 ---
 
-## 📖 About Me
-I am a **Computer Engineering** student at An-Najah National University, driven by a passion for high-performance systems and robust backend architecture. My approach to software development is centered around the **SOLID** principles and **Clean Architecture** to ensure long-term maintainability.
+## 🎯 What I Offer
 
-- 🌌 **NASA International Space Apps Challenge:** Awarded as a **Galactic Problem Solver (2025)**.
-- 🇫🇮 **Full Stack Open:** Currently mastering Finnish industry-standard web development (University of Helsinki).
-- 🛠️ **Expertise:** Specialized in **NestJS**, **Node.js**, and **PostgreSQL** with a strong foundation in **Java Systems Programming**.
-- 🎯 **Goal:** Building enterprise-grade solutions that solve real-world problems through efficient code.
+**Technical Excellence**
+- Clean, maintainable code following industry best practices
+- SOLID principles and design patterns
+- Performance optimization and security-first approach
+- Scalable architecture design
 
----
-
-## 🛠️ Technical Arsenal
-
-### 🔹 Backend & System Design
-`NestJS` `Node.js` `Java (Sockets/TCP)` `TypeScript` `RESTful APIs` `Microservices` `JWT & RBAC`
-
-### 🔹 Frontend & Mobile
-`React.js` `Flutter (Bloc/Cubit)` `Next.js` `Dart` `JavaScript (ES6+)`
-
-### 🔹 Databases & DevOps
-`PostgreSQL` `MySQL` `TypeORM` `Docker` `Firebase` `Git/GitHub` `Linux`
+**Professional Skills**
+- Clear technical communication
+- Collaborative team player
+- Comprehensive documentation
+- Continuous learning mindset
 
 ---
 
-## 🏆 Featured Projects
+## 📚 Currently Exploring
 
-### 🚀 [Enterprise Task Manager API](https://github.com/NassarBarahme/Task-Manager-Nestjs-)
-**The Core:** A production-ready REST API designed for high scalability.
-- **Key Features:** Advanced JWT Refresh/Access token rotation, Role-Based Access Control (RBAC).
-- **Architecture:** Implemented **Clean Architecture** to decouple business logic from external frameworks.
-- **Stack:** NestJS, PostgreSQL, TypeORM, Docker.
-
-### 🌐 [P2P Chat Network](https://github.com/NassarBarahme/Networks-Project-P2P-Chat)
-**The Core:** Low-level network programming without high-level frameworks.
-- **Key Features:** Multi-threaded TCP/IP communication engine built with pure **Java Sockets**.
-- **Achievement:** Achieved real-time data broadcasting with custom message framing and minimal latency.
-
-### 📱 [Study-Mate App](https://github.com/NassarBarahme/Study-Mate-App-Flutter)
-**The Core:** Productivity platform for students with offline-first capabilities.
-- **Key Features:** Reactive state management using **Bloc/Cubit**, offline caching with SQLite.
-- **Stack:** Flutter, NestJS Backend, Firebase.
-
----
-
-## 📊 Stats & Contributions
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NassarBarahme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NassarBarahme&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,scss"/>
-</div>
+```javascript
+const learning2025 = {
+  reading: [
+    "System Design Interview - Alex Xu",
+    "Clean Architecture - Robert C. Martin",
+    "Designing Data-Intensive Applications - Martin Kleppmann"
+  ],
+  exploring: [
+    "Microservices Architecture",
+    "Cloud Platforms (AWS/Azure)",
+    "DevOps & CI/CD",
+    "Advanced Flutter Patterns"
+  ]
+};
+```
 
 ---
 
-## 🤝 Let's Collaborate
-I am always interested in discussing **Backend Architecture**, **System Optimization**, and **Open Source** opportunities. 
+## 💼 Open to Opportunities
 
-- 📧 **Email:** [nassarbarahme@gmail.com](mailto:nassarbarahme@gmail.com)
-- 💼 **LinkedIn:** [Nassar Barahmeh](https://www.linkedin.com/in/nassar-barahme-378826362)
+I'm interested in roles involving:
+- **Backend Engineering** - Building scalable APIs and microservices
+- **Full-Stack Development** - End-to-end application development
+- **Mobile Development** - Cross-platform solutions with Flutter
+- **System Architecture** - Designing robust, scalable systems
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassar-barahme-378826362)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NassarBarahme)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nassarbarahme03@gmail.com)
+
+---
 
 <div align="center">
-  <sub>Built with ❤️ and TypeScript | 🇵🇸 From Nablus, Palestine</sub>
+
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - Martin Fowler
+
+**Thanks for visiting! Let's build something great together.**
+
+⭐️ From [NassarBarahme](https://github.com/NassarBarahme)
+
 </div>
