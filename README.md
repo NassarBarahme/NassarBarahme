@@ -118,15 +118,17 @@ Advanced image processing application with multiple filters, transformations, an
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NassarBarahme&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NassarBarahme&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NassarBarahme&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NassarBarahme&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NassarBarahme&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NassarBarahme&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
