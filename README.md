@@ -120,9 +120,11 @@ Advanced image processing application with multiple filters, transformations, an
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=NassarBarahme&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NassarBarahme&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NassarBarahme&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NassarBarahme&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NassarBarahme&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
